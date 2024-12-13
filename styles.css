@@ -51,6 +51,14 @@ main {
   font-size: 40px;
 }
 
+.fun-fact {
+  width: 100%;
+  padding: 0rem 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .fun-fact p {
   margin-top: 1rem;
   color: rgb(148, 163, 184);
